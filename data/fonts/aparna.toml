@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Aparna"
+
+# Optional Google font URL
+google_fonts = "Libre+Baskerville|Libre+Franklin|Roboto+Mono|Open Sans"
+
+# Font families
+heading_font = "Libre Franklin"
+body_font = "Libre Baskerville"
+nav_font = "Libre Franklin"
+mono_font = "Roboto Mono"

@@ -1,0 +1,19 @@
+# Theme metadata
+name = "Pupple"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#7b2937"
+
+# Menu
+menu_primary = "#7b2937"
+menu_text = "#ddd"
+menu_text_active = "#fff"
+menu_title = "#fff"
+
+# Home sections
+background = "#fff"
+home_section_odd = "#fff"
+home_section_even = "#fff"
