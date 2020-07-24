@@ -9,6 +9,11 @@ type: ""
 header:
   caption: ""
   image: ""
+
+gallery_item:
+- album: photos
+  image: AWIS Summit.jpg
+  caption: This is a test caption. How long can it be? Let's find out
 ---
 
 Ths is some dummy outreach content
