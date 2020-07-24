@@ -12,3 +12,5 @@ header:
 ---
 
 Ths is some dummy outreach content
+
+{{< gallery album="photos" >}}
