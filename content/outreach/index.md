@@ -12,8 +12,35 @@ header:
 
 gallery_item:
 - album: photos
-  image: AWIS Summit.jpg
-  caption: This is a test caption. How long can it be? Let's find out
+  image: AWIS_Summit.jpg
+  caption: At the Association for Women in Science Summit
+- album: photos
+  image: AS_at_BBC.jpg
+  caption: Aparna at Baltimore Brain C
+- album: photos
+  image: BAW_2018_1.jpg
+  caption: Brain Awareness Week 1
+- album: photos
+  image: BAW_2018_2.jpg
+  caption: Brain Awareness Week 2
+- album: photos
+  image: BrainFest_2017.jpg
+  caption: BrainFest 2017
+- album: photos
+  image: Science_Gong_Show.jpg
+  caption: The Science Gong Show
+- album: photos
+  image: ScreenShot_2018-10-16.png
+  caption:
+- album: photos
+  image: SfN_PDW_2019_1.jpeg
+  caption: Reproducability Workshop at Neuroscience 2019 - Society for Neuroscience
+- album: photos
+  image: SfN_PDW_2019_2.jpeg
+  caption: Reproducability Workshop at Neuroscience 2019 - Society for Neuroscience
+- album: photos
+  image: Skype-20190128.jpg
+  caption: Skype a Scientist
 ---
 
 Ths is some dummy outreach content
