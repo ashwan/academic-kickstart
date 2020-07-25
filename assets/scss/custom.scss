@@ -3,9 +3,18 @@ Some overrides of Academic's defaults
 */
 
 html {
-  line-height: 1.5;
+  line-height: 1.75;
+  scroll-behavior: smooth;
  }
  
 .article-container {
    max-width: 840px;
  }
+
+/*
+Some custom styles
+*/
+
+.inline-icon {
+  font-size: 1rem;
+}
