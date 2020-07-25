@@ -206,6 +206,6 @@ Class Size: 75 students
 
 Defining Features Matrix Activity: <span class="inline-icon">[{{< icon name="file-powerpoint" pack="fas" >}}](https://docs.google.com/presentation/d/1IcFVWMaAVcXqvUC3rzIcqxG7KktnqK_K_BT5fSY9qHU/edit?usp=sharing)</span>
 
-Poster: {{% staticref "files/GRS_TAR_poster_Aparna_Shah_061919" "newtab" %}}<span class="inline-icon">{{< icon name="file-pdf" pack="fas" >}}</span>{{% /staticref %}}
+Poster: {{% staticref "files/GRS_TAR_poster_Aparna_Shah_061919.pdf" "newtab" %}}<span class="inline-icon">{{< icon name="file-pdf" pack="fas" >}}</span>{{% /staticref %}}
 
 {{< figure src="poster.png" title="Poster Presentation of the Teaching-as-Research Project at the Gordon Research Seminar on Undergraduate Biology Education Research (UBER, 2019)" lightbox="true" >}}
