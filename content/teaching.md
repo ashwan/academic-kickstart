@@ -10,7 +10,7 @@ header:
   caption: ""
   image: ""
 ---
-**Teaching Philosophy Statement
+## Teaching Philosophy Statement
 
 Teaching bestows the opportunity to create societal impact. Teachers have the power to inspire the next generation of learners to set bold goals and enable them to achieve these goals. My desire to teach biological sciences (neuroscience) at the undergraduate level originated when I was a Masters student in India and was given the opportunity to conduct workshops for my peers and juniors. I caught myself emulating some of the very same teachers that inspired me to follow a scientific career path. As I reflect on mythis and other experiences that I have had since then, I am reminded of two things, the joy that teaching brings me and the immense influence that teachers can have on their students’ lives.
  
