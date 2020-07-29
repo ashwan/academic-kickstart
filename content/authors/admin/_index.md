@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Post Doctoral Fellow
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -18,22 +18,24 @@ organizations:
   url: "http://neuroscience.jhu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include depression and mood disorders.
+bio: My interests include the neurobiology of psychiatric disorders, science education and outreach.
 
 interests:
-- Depression & Mood Disorders
-- Science Education, Communication & Outreach
+- Neurobiology of Affective Disorders
+- Science Education 
+- Science Communication
+- Outreach
 
 education:
   courses:
   - course: PhD in Pharmacology
-    institution: UT Health San Antonio
+    institution: UT Health San Antonio, TX, USA
     year: 2014
   - course: MSc in Life Sciences (Neurobiology)
-    institution: Sophia College for Women, Mumbai University
+    institution: Sophia College for Women, Mumbai University, India
     year: 2007
   - course: BSc in Life Sciences & Biochemistry
-    institution: St. Xavier's College, Mumbai University
+    institution: St. Xavier's College, Mumbai University, India
     year: 2005
 
 # Social/Academic Networking
@@ -68,10 +70,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-- point 1
-- point 2
-- point 3
+Hi! I am a perpetually inquisitive neuroscientist who believes that discovering answers to the 'Why?' and 'How?' questions about our brains is empowering. These answers help us understand ourselves and those around us better. I have over ten years of research experience on a wide array of brain disorders, ranging from mental health illnesses, such as anxiety, depression and substance use disorders to neurological conditions like Parkinson's disease. Currently, I am investigating the role of microRNAs in neuronal plasticity and stress-related psychiatric disorders.

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Ovarian hormones and Antidepressants"
+title: "Ovarian Hormones and Antidepressants"
 summary: "Influence of ovarian hormones on antidepressant drug treatment"
 authors: []
 tags: []
@@ -41,11 +41,12 @@ slides: ""
 ---
 Depression is more prevalent among women than men. Yet, very little is
 known about the potential influence of female hormones, such as estrogen
-and progesterone, on the action of AD drugs that are commonly prescribed
+and progesterone, on the action of antidepressant (AD) drugs that are commonly prescribed
 to both, men and women. Therefore, we conducted a preclinical study to
 address this. We focused our study on a classical AD drug called
-desipramine (sold as Norpramin) and widely prescribed to both men and
-women. Desipramine is known to block the reuptake of a neurochemical
+Desipramine (sold as Norpramin) and widely prescribed to people of all genders. 
+
+Desipramine blocks the reuptake of a neurochemical
 messenger, norepinephrine, back into neurons by binding to the
 norepinephrine transporter present on neuronal ends. To test the
 influence of female hormones on this drug's action, we compared how
