@@ -12,35 +12,65 @@ header:
 
 gallery_item:
 - album: photos
-  image: AWIS_Summit.jpg
-  caption: At the Association for Women in Science Summit
-- album: photos
-  image: AS_at_BBC.jpg
-  caption: Aparna at Baltimore Brain C
-- album: photos
-  image: BAW_2018_1.jpg
-  caption: Brain Awareness Week 1
-- album: photos
-  image: BAW_2018_2.jpg
-  caption: Brain Awareness Week 2
-- album: photos
-  image: BrainFest_2017.jpg
-  caption: BrainFest 2017
-- album: photos
-  image: Science_Gong_Show.jpg
-  caption: The Science Gong Show
-- album: photos
-  image: ScreenShot_2018-10-16.png
   caption:
+  image: 1-BrainFest.jpg
 - album: photos
-  image: SfN_PDW_2019_1.jpeg
-  caption: Reproducability Workshop at Neuroscience 2019 - Society for Neuroscience
+  caption:
+  image: 2-BrainFest.jpg
 - album: photos
-  image: SfN_PDW_2019_2.jpeg
-  caption: Reproducability Workshop at Neuroscience 2019 - Society for Neuroscience
+  caption:
+  image: 3-BAW_2018.jpg
 - album: photos
-  image: Skype-20190128.jpg
-  caption: Skype a Scientist
+  caption:
+  image: 4-BrainFest_2017.jpg
+- album: photos
+  caption:
+  image: 5-20160917_092518.jpg
+- album: photos
+  caption:
+  image: 6-20160917_131317.jpg
+- album: photos
+  caption:
+  image: 7-BrainConnect2018.jpg
+- album: photos
+  caption:
+  image: 8-Science_Gong_Show.jpg
+- album: photos
+  caption:
+  image: 9-IMG-20200809-WA0002.jpg
+- album: photos
+  caption:
+  image: 10-BAW_2018(2).jpg
+- album: photos
+  caption:
+  image: 11-IMG_20200219_173252.jpg
+- album: photos
+  caption:
+  image: 12-IMG_20191025_195701.jpg
+- album: photos
+  caption:
+  image: 13-IMG_20191025_202028.jpg
+- album: photos
+  caption:
+  image: 14-SOTL_L1_4.jpg
+- album: photos
+  caption:
+  image: 15-MVIMG_20190508_150400.jpg
+- album: photos
+  caption:
+  image: 16-20170118_143907.jpg
+- album: photos
+  caption:
+  image: 17-20170118_144050.jpg
+- album: photos
+  caption:
+  image: 18-Skype-20190128-111452.jpg
+- album: photos
+  caption:
+  image: 19-2018-10-16.png
+- album: photos
+  caption:
+  image: 20-IMG_20180408_140324.jpg
 ---
 
 Ths is some dummy outreach content
