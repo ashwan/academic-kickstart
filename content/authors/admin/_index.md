@@ -70,4 +70,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Hi! I am a perpetually inquisitive neuroscientist who believes that discovering answers to the 'Why?' and 'How?' questions about our brains is empowering. These answers help us understand ourselves and those around us better. I have over ten years of research experience on a wide array of brain disorders, ranging from mental health illnesses, such as anxiety, depression and substance use disorders to neurological conditions like Parkinson's disease. Currently, I am investigating the role of microRNAs in neuronal plasticity and stress-related psychiatric disorders.
+Hi! I am a neuroscientist who believes that discovering answers to the 'Why?' and 'How?' questions about our brains is empowering. These answers help us understand ourselves and those around us better. I have over ten years of research experience on a wide array of brain disorders, ranging from mental health illnesses, such as anxiety, depression and substance use disorders to neurological conditions like Parkinson's disease. Currently, I am investigating the role of microRNAs in neuronal plasticity and stress-related psychiatric disorders.

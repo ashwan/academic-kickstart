@@ -6,6 +6,6 @@ google_fonts = "Libre+Baskerville|Libre+Franklin|Roboto+Mono|Open Sans"
 
 # Font families
 heading_font = "Libre Franklin"
-body_font = "Libre Baskerville"
+body_font = "Libre Franklin"
 nav_font = "Libre Franklin"
 mono_font = "Roboto Mono"
