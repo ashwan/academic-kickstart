@@ -12,7 +12,7 @@ header:
 
 gallery_item:
 - album: photos
-  caption: This is a caption
+  caption:
   image: 1-BrainFest.jpg
 - album: photos
   caption:
