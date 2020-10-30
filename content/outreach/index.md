@@ -33,12 +33,6 @@ gallery_item:
   image: ScreenShot_2018-10-16.png
   caption:
 - album: photos
-  image: SfN_PDW_2019_1.jpeg
-  caption: Reproducability Workshop at Neuroscience 2019 - Society for Neuroscience
-- album: photos
-  image: SfN_PDW_2019_2.jpeg
-  caption: Reproducability Workshop at Neuroscience 2019 - Society for Neuroscience
-- album: photos
   image: Skype-20190128.jpg
   caption: Skype a Scientist
 ---

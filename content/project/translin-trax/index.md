@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Translin/trax: a miRNA-degrading enzyme"
+title: "Translin/trax: a microRNA-degrading enzyme"
 summary: "Investigating the roles of translin/trax, a microRNA-degrading enzyme
 in the brain and beyond"
 authors: []
