@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Pharmacology
+  - course: PhD in Pharmacology (Neuroscience track)
     institution: UT Health San Antonio, TX, USA
     year: 2014
   - course: MSc in Life Sciences (Neurobiology)

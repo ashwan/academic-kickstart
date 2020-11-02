@@ -103,7 +103,7 @@ Conducted a hands-on workshop for Masters-level students at Sophia College for W
 
 ## Pedagogical Workshops, Courses and Conferences Attended
 
-### Johns Hopkins Preparing Future Faculty Teaching Academy Program
+### [Johns Hopkins Preparing Future Faculty Teaching Academy Program](https://cer.jhu.edu/teaching-academy/coc/requirements)
 
 ### Workshops
 
