@@ -5,10 +5,11 @@ name = "Pupple"
 light = true
 
 # Primary
-primary = "#7b2937"
+primary = "#5F0F40" 
+# "#7b2937"
 
 # Menu
-menu_primary = "#7b2937"
+menu_primary = "#5F0F40"
 menu_text = "#ddd"
 menu_text_active = "#fff"
 menu_title = "#fff"

@@ -11,65 +11,44 @@ header:
 ---
 {{% toc %}}
 
-## Teaching Philosophy Statement
-
-Teaching bestows the opportunity to create societal impact. Teachers have the power to inspire the next generation of learners to set bold goals and enable them to achieve these goals. My desire to teach biological sciences (neuroscience) at the undergraduate level originated when I was a Masters student in India and was given the opportunity to conduct workshops for my peers and juniors. I caught myself emulating some of the very same teachers that inspired me to follow a scientific career path. As I reflect on this and other experiences that I have had since then, I am reminded of two things, the joy that teaching brings me and the immense influence that teachers can have on their students' lives.
-
-As a teacher, I aim to use backward design for developing course curricula that encourage a shift from surface learning to deep learning. Accordingly, I believe my responsibility as an instructor is to not only deliver the content but also provide a conceptual framework and train students to identify appropriate resources and strategies to build upon this framework. While it is important that the course content exposes students to field-specific terminology and concepts, it is crucial that the course design supports the transfer of their understanding of concepts to different contexts. Occasionally, I take this one step further and include activities that support the transfer of students' understanding to different target audiences as well. For instance, as a guest lecturer for a Psychology course at Goucher College, I conducted a 'comic strip' activity towards the end of a session on *Classical Conditioning*. For this activity, students broke into four groups and were asked to sketch a 3-panel comic strip (Before Conditioning, During Conditioning and After Conditioning) of a given example of classical conditioning. They applied what they had learned from reading assignments and class discussions and translated a complex classical conditioning example (fear learning, taste-aversion learning, eyeblink conditioning or salivary conditioning) into a product appropriate for a non-expert audience. This activity not only encouraged collaborative work and creativity but also served as formative assessment. Its success convinced the instructor to consider including this activity in future iterations of the course.
-
-The expressions, '*Tell me and I forget, teach me and I remember, involve me and I learn'* and '*Nothing is more effective for learning than trying to teach it to someone else'* encapsulate how I conceptualize learning. With these principles in mind, I try to incorporate innovative active learning strategies in every course session and use peer instruction exercises whenever suitable. As a Collaborative Teaching Fellow (teaching intern) at Goucher College, I facilitated four journal club-style class sessions that together formed a major component of the *Biochemistry of Gene Expression* course. For each of these sessions, students worked in groups and presented an assigned subset of data figures from the selected article to the rest of the class. They subsequently posted explanations of the figures assigned to them on an online 'wiki' that could be accessed by the entire class. The discussions that ensued among students would have been difficult to orchestrate had I been the one explaining the data figures. Students did most of the talking during the class session itself but received feedback from me on the explanations that they posted online.
-
-One of the biggest challenges that teachers often face is keeping the students engaged in content, in-class learning activities, and flipped classroom assignments. As a learner, I have identified several factors that led me to disengage from a class session. I have made a mental note of addressing these factors as an instructor. The issues primarily stemmed from a *lack of* (a) clarity on the expectations and responsibilities, (b) communication regarding the learning objectives and utility value of a class session, (c) inclusive teaching practices, or (d) consequences for students who do not attempt flipped classroom assignments. As an instructor, I seek to use several strategies for enhancing student engagement in class. I establish relevance by connecting subject matter to everyday applications or current issues and events, and by providing various perspectives. I give students some freedom with selecting topics or articles for assignments. In my experience as an instructor for the *Medical Neuroscience Discussion Group*, students seemed more enthusiastic about presenting papers that they had chosen for themselves. In addition to active learning exercises, I use a variety of instructional tools (videos, whiteboard illustrations, 3-D models, etc.) to keep the pace of a class session dynamic. These tools were especially helpful when I taught the *Nervous System and Special Senses* lab course online for Johns Hopkins University School of Medicine in the COVID era.
-
-To assess (and facilitate) student learning, I have used at least two different techniques in the past. The first one, *Knowledge, Connection,* and *Application* (KCA) Assessment, a quiz on flipped-classroom reading assignments, was designed along with Dr. McCabe for her *Psychology* course at Goucher College. Students answered a 5-item KCA-assessment during the first ten minutes of the class. During the first few minutes they responded to the items from memory, and the rest of the time they used their notes and books to complete the assessment. Immediately after they turned in their assessments, we spent a few minutes discussing the answers. This technique worked well for a small class size and allowed me to determine which topics needed more emphasis during the class period. On the other hand, the *Defining Features Matrix* clicker-based activity that I conducted as a Teaching-as-Research Fellow for a *Psychopharmacology* course worked effectively despite a large class size. Overall, I aim to align assessments with learning objectives and make use of rubrics while grading, for clarity and fairness. I try to provide immediate (especially for formative assessments) and positive feedback on student performance with the goal of cultivating a growth mindset.
-
-To assess my teaching, I have requested student feedback as well as peer observation from colleagues in the past. These approaches have been immensely beneficial for determining my weaknesses. I hope to continue addressing these shortcomings with practice and by attending pedagogical training workshops and conferences on evidence-based teaching that have been helpful so far.
-
-I strive to model positive behavior in the classroom to build a culture of trust, fairness and mutual respect and create a safe environment for all students to explore, ask questions, make mistakes, and improve. Ultimately, I hope for my students to understand the scientific method, develop healthy skepticism and an analytical worldview, irrespective of whether they are specializing in the subjects that I teach.
-
 ---
 
 ## Documentation of Teaching
 
 #### Co-Instructor, Understanding Parkinson's Through the Lens of Neuroscience (2020)
 Baltimore Underground Science Space (BUGSS), Baltimore, MD  
-Class Size:
+Class Size: 13
+- Developed content and activities for an online course open to a general audience
 
 #### Instructor, Genes to Society: Nervous System and Special Senses Labs (2020)
 Johns Hopkins University School of Medicine, Baltimore, MD  
-Class Size:
-- Led Neuroanatomy, General and Special Sensory & Motor System labs (**online** via Zoom). The course involved a 'flipped classroom' design
-- Students read handouts and watched pre-recorded lectures and videos of brain dissections during asynchronous sessions
-- Each synchronous session began with a short quiz based on the content assigned for asynchronous learning, followed by a review of the content, and team-based exercise and case solving in breakout rooms.
+Class Size: 25
+- Led Neuroanatomy, General and Special Sensory & Motor System labs (online via Zoom). The course involved a flipped classroom design
+- Each synchronous session began with a short quiz based on the content assigned for asynchronous learning, followed by a review of the content, as well as team-based exercises and case solving in breakout rooms
 
 #### Teaching Fellow, CHE 345: Biochemistry of Gene Expression (2016)
 Goucher College, Center for Natural Sciences, Baltimore, MD  
-Class Size: 13 students
+Class Size: 13
 - Prepared and led three class sessions on *Post-transcriptional Gene Regulation (Parts I and II)* and *How to Read a Scientific Paper.*
 - Incorporated resources other than slides with text and images (eg. used videos to explain [Gene Silencing by MicroRNAs](https://www.youtube.com/watch?v=t5jroSCBBwk) and the [Ubiquitin Protease System](https://www.youtube.com/watch?v=hvNJ3yWZQbE&t=1s).
-- Led four journal club-style paper discussions that were central to each unit of the course, as described in the [syllabus](https://docs.google.com/document/d/1P4uNekP90ewGrCvMBRDme3bbnJZ4rvCkf1YjyOPlavA/edit#bookmark=id.9f2e9znzs4k7).
-- Designed [assignments (with rubrics)](https://docs.google.com/document/d/1P4uNekP90ewGrCvMBRDme3bbnJZ4rvCkf1YjyOPlavA/edit#bookmark=id.9u9qr11g9ps9) based on these papers, accumulated [relevant learning resources](https://docs.google.com/document/d/1P4uNekP90ewGrCvMBRDme3bbnJZ4rvCkf1YjyOPlavA/edit#bookmark=id.2mkiz47et97z) and monitored student performance on Goucher's Campus Pack Wiki, a collaborative space where multiple authors can create and contribute to one or more web pages that are linked together.
+- Led four journal club-style paper discussions that were central to each unit of the course.
+- Designed assignments (with rubrics) based on these papers, accumulated relevant learning resources and monitored student performance on Goucher's Campus Pack Wiki, a collaborative space where multiple authors can create and contribute to one or more web pages that are linked together.
 - Prepared questions and rubrics for final exams and graded all assignments and exams along with the lead instructor.
 - Held weekly office hours.
-
-**Video recordings** of my teaching can be found here for *Post-transcriptional [Gene Regulation I](https://youtu.be/4K4pwXObPCg)* and *[II](https://www.youtube.com/watch?v=IHYHq2hgpCo&t=2987s)*
 
 An **interview** about my experience as a Collaborative Teaching Fellow can be found here: [https://cer.jhu.edu/teaching-academy/ctf/overview](https://cer.jhu.edu/teaching-academy/ctf/overview)
 
 #### Guest Lecturer, PSY 202: Human Learning and Memory (2016)
 Goucher College, Baltimore, MD  
-Class Size:
-- Shadowed the instructor to familiarize myself with the class format and students prior to the class session that I guest lectured for.
+Class Size: 17
 - Prepared and led a class session on *Classical Conditioning*.
 - Began the session with 'KCA (knowledge, connection, application) Assessment', consisting of questions based on pre-class assignments, as formative assessment of students' learning level.
-- Delivered the content using slides, videos, graphics and whiteboard drawings.
-- Ended the class session with an [active learning exercise (Comic Strip Activity)](https://docs.google.com/document/d/1P4uNekP90ewGrCvMBRDme3bbnJZ4rvCkf1YjyOPlavA/edit#bookmark=id.vo1r7t5jhxys).
-
-The class observation memo from Dr. Jennifer McCabe, the lead instructor for this course, can be found [here](https://docs.google.com/document/d/1P4uNekP90ewGrCvMBRDme3bbnJZ4rvCkf1YjyOPlavA/edit#bookmark=id.z4g0jhzpnkw).
+- Delivered the content using slides, videos, graphics and whiteboard illustrations.
+- Ended the class session with an active learning exercise (Comic Strip Activity)
 
 #### Instructor, Medical Neuroscience Discussion Group (2015)
 University of Maryland School of Medicine  
-Class Group Size: 13 students
+Class Group Size: 13
 - Created and led a multi-session discussion group for first year medical students entitled, 'Parkinson's disease -- a focus on non-motor symptoms'. Students were required to read relevant scientific papers assigned to them and lead presentations.They were graded on the basis of their performance and participation.
 
 Description of the Discussion Group Topic: Parkinson's disease -- a focus on non-motor symptoms
@@ -125,8 +104,6 @@ Conducted a hands-on workshop for Masters-level students at Sophia College for W
 ## Pedagogical Workshops, Courses and Conferences Attended
 
 ### Johns Hopkins Preparing Future Faculty Teaching Academy Program
--  [Certificate of Completion](https://docs.google.com/document/d/1P4uNekP90ewGrCvMBRDme3bbnJZ4rvCkf1YjyOPlavA/edit#bookmark=id.7roni4a9g9w0)
--  [Letter](https://docs.google.com/document/d/1P4uNekP90ewGrCvMBRDme3bbnJZ4rvCkf1YjyOPlavA/edit#bookmark=id.lyp8aims0ghj)
 
 ### Workshops
 
@@ -139,8 +116,6 @@ A 4-day online format offered to doctoral students and post-doctoral fellows to 
 - Inclusive Classrooms
 - Grading & Rubrics
 - Course Planning and the First Day
-
-[Certificate of Completion](https://docs.google.com/document/d/1P4uNekP90ewGrCvMBRDme3bbnJZ4rvCkf1YjyOPlavA/edit#bookmark=id.jp8i36w0f99w)
 
 #### 3rd Annual Summer Institute for Education Equity and Justice (2020)
 Virtual Conference Organized by American University School of Education, Washington, DC
@@ -195,14 +170,12 @@ Judge for Brain and Behavior e-Posters presented by full-time students enrolled 
 
 ## Teaching-as-Research Fellowship (2018-19)
 
-[Certificate of Completion](https://docs.google.com/document/d/1P4uNekP90ewGrCvMBRDme3bbnJZ4rvCkf1YjyOPlavA/edit#bookmark=id.kw29127ouv3)
-
 Project Abstract: Review sessions during undergraduate biology courses often involve revisiting material covered during several hour-long lectures. Depending on the course content, one has to often choose between going over most of the material superficially or emphasizing and discussing selected, key topics. In addition, it can be challenging to make the session interactive, especially with large class sizes.
 
 As a Teaching-as-Research (TAR) Fellow, I aimed to identify and employ a strategy during a mid-course review session held before an exam that would be fast-paced, comprehensive, not \'teaching to the test', and involving student engagement. A secondary aim was to assess its effectiveness in enhancing student engagement and exam performance. Here I describe the use of a Defining Features Matrix for reviewing basic concepts of Psychopharmacology (Pharmacokinetics and Pharmacodynamics), discuss the method of its implementation in a class of over 50 students, and highlight some observations and potential implications.
 
 Course: Psychopharmacology  
-Class Size: 75 students
+Class Size: 75 
 
 Defining Features Matrix Activity: <span class="inline-icon">[{{< icon name="file-powerpoint" pack="fas" >}}](https://docs.google.com/presentation/d/1IcFVWMaAVcXqvUC3rzIcqxG7KktnqK_K_BT5fSY9qHU/edit?usp=sharing)</span>
 

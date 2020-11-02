@@ -2,10 +2,10 @@
 name = "Aparna"
 
 # Optional Google font URL
-google_fonts = "Libre+Baskerville|Libre+Franklin|Roboto+Mono|Open Sans"
+google_fonts = "Roboto:wght@900|Libre+Franklin|Roboto+Mono"
 
 # Font families
-heading_font = "Libre Franklin"
+heading_font = "Roboto:wght@900"
 body_font = "Libre Franklin"
 nav_font = "Libre Franklin"
 mono_font = "Roboto Mono"
