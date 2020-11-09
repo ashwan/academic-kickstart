@@ -13,31 +13,31 @@ header:
 gallery_item:
 - album: photos
   caption:
-  image: 1-BrainFest.jpg
+  image: 01-BrainFest.jpg
 - album: photos
   caption:
-  image: 2-BrainFest.jpg
+  image: 02-BrainFest.jpg
 - album: photos
   caption:
-  image: 3-BAW_2018.jpg
+  image: 03-BAW_2018.jpg
 - album: photos
   caption:
-  image: 4-BrainFest_2017.jpg
+  image: 04-BrainFest_2017.jpg
 - album: photos
   caption:
-  image: 5-20160917_092518.jpg
+  image: 05-20160917_092518.jpg
 - album: photos
   caption:
-  image: 6-20160917_131317.jpg
+  image: 06-20160917_131317.jpg
 - album: photos
   caption:
-  image: 7-BrainConnect2018.jpg
+  image: 07-BrainConnect2018.jpg
 - album: photos
   caption:
-  image: 8-Science_Gong_Show.jpg
+  image: 08-Science_Gong_Show.jpg
 - album: photos
   caption:
-  image: 9-IMG-20200809-WA0002.jpg
+  image: 09-IMG-20200809-WA0002.jpg
 - album: photos
   caption:
   image: 10-BAW_2018(2).jpg
