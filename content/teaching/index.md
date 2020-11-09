@@ -84,8 +84,6 @@ Slides: <span class="inline-icon">[{{< icon name="file-powerpoint" pack="fas" >}
 
 Additional Resources and more about Repro4Everyone: [https://www.repro4everyone.org/](https://www.repro4everyone.org/)
 
-Selected Quotes from Participants' Feedback:
-
 #### How to Critically Read Scientific Literature (2019)
 Created content for and led a workshop for the Johns Hopkins Neuroscience Summer Undergraduate Lunch Series
 
