@@ -1,5 +1,5 @@
 ---
-title: Outreach
+title: Science Communication & Outreach
 summary: Outreach efforts
 date: ""
 authors: []
