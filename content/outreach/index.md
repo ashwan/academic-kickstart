@@ -73,7 +73,7 @@ gallery_item:
   image: 20-IMG_20180408_140324.jpg
 ---
 ## Articles
-{{< figure src="science-trust.png" caption="[In Science We Need Trust, a short essay](https://lifeology.io/in-science-we-need-trust-a-short-essay/)" alt="In Science We Need Trust, a short essay" class="outreach-img float-left" >}}
+{{< figure src="science_trust.png" caption="[In Science We Need Trust, a short essay](https://lifeology.io/in-science-we-need-trust-a-short-essay/)" alt="In Science We Need Trust, a short essay" class="outreach-img float-left" >}}
 
 {{< figure src="photos/04-BrainFest_2017.jpg" caption="[The Young, Well-Preserved and Creative Brains at B'more BrainFest](https://neuro-musings.medium.com/the-young-well-preserved-and-creative-brains-at-bmore-brainfest-eadf634a736d)" alt="The Young, Well-Preserved and Creative Brains at B'more BrainFest" class="outreach-img float-left" >}}
 
