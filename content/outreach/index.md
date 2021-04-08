@@ -72,5 +72,16 @@ gallery_item:
   caption:
   image: 20-IMG_20180408_140324.jpg
 ---
+## Articles
+{{< figure src="science-trust.png" caption="[In Science We Need Trust, a short essay](https://lifeology.io/in-science-we-need-trust-a-short-essay/)" alt="In Science We Need Trust, a short essay" class="outreach-img float-left" >}}
 
+{{< figure src="photos/04-BrainFest_2017.jpg" caption="[The Young, Well-Preserved and Creative Brains at B'more BrainFest](https://neuro-musings.medium.com/the-young-well-preserved-and-creative-brains-at-bmore-brainfest-eadf634a736d)" alt="The Young, Well-Preserved and Creative Brains at B'more BrainFest" class="outreach-img float-left" >}}
+
+{{< figure src="promega_hellophd.jpg" caption="[Oh, the Places You'll Go, Thanks to Science!](https://www.promegaconnections.com/hellophd-art2019/)" alt="Oh, the Places You'll Go, Thanks to Science!" class="outreach-img float-left">}}
+
+{{< figure src="plos-image-crop.jpg" caption="[Sex differences in preclinical neuroscience research: Snippets from #SfN15 with Catherine Woolley](https://theplosblog.plos.org/2015/10/sex-differences-in-preclinical-neuroscience-research-snippets-from-sfn15-with-catherine-woolley-by-aparna-shah/)" alt="Sex differences in preclinical neuroscience research: Snippets from #SfN15 with Catherine Woolley" class="outreach-img float-left">}}
+
+<div style="clear:both"></div>
+
+## Gallery
 {{< gallery album="photos" >}}

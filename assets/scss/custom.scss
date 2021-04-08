@@ -23,3 +23,20 @@ h1 {
   font-weight: bold;
   color: #0F4C5C;
 }
+
+/* Styling the gallery */
+
+.gallery a[data-fancybox] img {
+  height: 190px;
+}
+
+/* Test styles for images in outreach page */
+figure.outreach-img {
+  width: 190px;
+  padding: 4px;
+  margin: 0;
+}
+
+.outreach-img a {
+  text-decoration: underline;
+}
