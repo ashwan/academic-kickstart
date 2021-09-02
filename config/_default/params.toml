@@ -88,16 +88,16 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "ashah69@jhmi.edu"
+email = "aparnashah@vt.edu"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "725 N Wolfe Street", city = "Baltimore", region = "MD", postcode = "21205", country = "United States", country_code = "US"}
+address = {street = "210 Drillfield Drive", city = "Blacksburg", region = "VA", postcode = "24060", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "39.2993", longitude = "-76.5907"}
+coordinates = {latitude = "37.2259", longitude = "-80.4234"}
 
 # Directions for visitors to locate you.
 directions = ""

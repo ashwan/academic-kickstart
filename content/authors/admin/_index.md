@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Fellow
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Johns Hopkins University
-  url: "http://neuroscience.jhu.edu/"
+- name: School of Neuroscience, Virginia Tech
+  url: "https://neuroscience.vt.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include the neurobiology of psychiatric disorders, science education and outreach.
@@ -70,4 +70,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Hi! I am a neuroscientist who believes that discovering answers to the 'Why?' and 'How?' questions about our brains is empowering. These answers help us understand ourselves and those around us better. I have over ten years of research experience on a wide array of brain disorders, ranging from mental health illnesses, such as anxiety, depression and substance use disorders to neurological conditions like Parkinson's disease. Currently, I am investigating the role of microRNAs in neuronal plasticity and stress-related psychiatric disorders and was awarded a Young Investigator Grant by the Brain & Behavior Research Foundation in 2018 to initiate this novel line of research. I am also the current President of the [Association for Women in Science - Baltimore Chapter](http://www.awisbaltimore.org/)
+Hi! I am a neuroscientist who believes that discovering answers to the 'Why?' and 'How?' questions about our brains is empowering. These answers help us understand ourselves and those around us better. I have over ten years of research experience on a wide array of brain disorders, ranging from mental health illnesses, such as anxiety, depression and substance use disorders to neurological conditions like Parkinson's disease. Most recently, I was investigating the role of microRNAs in neuronal plasticity and stress-related psychiatric disorders and was awarded a Young Investigator Grant by the Brain & Behavior Research Foundation in 2018 to initiate this novel line of research. I am a former President of the [Association for Women in Science - Baltimore Chapter](http://www.awisbaltimore.org/).
