@@ -15,7 +15,7 @@ role: Assistant Professor
 # Organizations/Affiliations
 organizations:
 - name: School of Neuroscience, Virginia Tech
-  url: "https://neuroscience.vt.edu/"
+  url: "https://neuroscience.vt.edu/people/core-faculty/AparnaShah.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include the neurobiology of psychiatric disorders, science education and outreach.
